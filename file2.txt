@@ -1,2 +1,3 @@
 second file
-blah blah
+different stuff
+more stuff
