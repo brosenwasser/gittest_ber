@@ -1,4 +1,3 @@
 this is line 1
 this is line 2
-3rd line are not even better
-4th line
+3rd line are even better
